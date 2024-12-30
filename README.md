@@ -3,6 +3,8 @@
 The purpose of this project is to learn and practice various applications we’ve learned during the Technion Big Data Analysis Course (BDA23)
 We have used the famous Churn dataset which contains customers and attributes and whatever they have churned
 
+##########################
+
 The Project consist of three parts:
 
 Part A – Python:
