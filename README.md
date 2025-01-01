@@ -39,9 +39,9 @@ Project python files were created with the following concept:
 2) MongoDB_prep.py – Functions for MongoDB connection, MQL and Data prep
 3) Main.py – Running all functions
 4) Project Presentation (Powerpoint)
-5)   .tfl - Tableau Prep file
+5) Tableau Prep file
 6) 4 x Tableau Hyper files
-7)   .twb - Tableau Desktop file
+7) Tableau Desktop file
    
 
 
